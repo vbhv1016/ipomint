@@ -1,0 +1,21 @@
+# IPO Tracker — Grey Market Premium
+
+> Live tracker for Indian stock market IPOs: real-time GMP (Grey Market Premium), subscription status, allotment status, and estimated listing gains.
+
+## Pages
+
+- [IPO Dashboard](/): Live list of current, upcoming, and listed Indian IPOs with GMP and expected listing gains.
+- [Upcoming IPOs](/upcoming-ipo): Calendar of upcoming mainboard and SME IPOs with price bands and dates.
+- [IPO GMP List](/ipo-gmp-list): Latest grey market premium for every active IPO, auto-updated.
+- [Subscription Status](/ipo-subscription-status): Live subscription figures by investor category.
+- [Allotment Status](/ipo-allotment-status): How to check IPO allotment and registrar links.
+- [Compare IPOs](/compare): Side-by-side comparison of IPO fundamentals and GMP.
+- [Allotment Calculator](/ipo-allotment-calculator): Estimate allotment probability by category and lots applied.
+- [Listing Gain Calculator](/ipo-listing-gain-calculator): Estimate listing-day profit from GMP.
+- [Blog](/blog): IPO reviews and analysis articles.
+
+## Optional
+
+- [Disclaimer](/disclaimer): Not SEBI registered; GMP data is unofficial and not investment advice.
+- [Privacy Policy](/privacy): Data handling practices.
+- [Terms of Service](/terms): Usage terms.

@@ -1,19 +1,17 @@
 # IPOMint
 
-IPOMint is an IPO analytics platform focused on Indian stock market IPOs. The platform provides IPO GMP tracking, subscription status, allotment updates, listing gain insights, IPO calendars, upcoming IPO information, and analytical tools for retail investors.
+IPOMint is a modern IPO analytics platform that helps investors track upcoming IPOs, Grey Market Premium (GMP), subscription status, allotment probability, listing gains, and IPO performance insights.
 
 ## Features
 
-- IPO GMP Tracking
-- Upcoming IPO Calendar
-- IPO Subscription Status
-- IPO Allotment Status
-- IPO Performance Tracking
-- IPO Comparison Tool
-- IPO Allotment Calculator
-- IPO Listing Gain Calculator
-- SEO Optimized Dynamic IPO Pages
-- Blog & Educational Content
+- Real-time IPO tracking
+- Grey Market Premium (GMP) monitoring
+- IPO subscription analysis
+- Allotment probability estimation
+- Listing gain analytics
+- Historical IPO performance
+- Responsive UI
+- SEO optimized architecture
 
 ## Tech Stack
 
@@ -21,26 +19,29 @@ IPOMint is an IPO analytics platform focused on Indian stock market IPOs. The pl
 - React 19
 - TypeScript
 - TanStack Router
-- TanStack Start
+- TanStack Query
 - Tailwind CSS
-- shadcn/ui
+- Shadcn UI
 
-### Backend & Database
+### Backend
 - Supabase
-- PostgreSQL
-- Supabase Edge Functions
+- Edge Functions
 
-### SEO
-- Dynamic Metadata
-- Sitemap Generation
-- Robots.txt
-- Canonical URLs
-- Open Graph
-- Twitter Cards
-- JSON-LD Structured Data
+### Testing
+- Vitest
+- Testing Library
 
-## Local Development
+## Local Setup
 
 ```bash
 npm install
 npm run dev
+```
+
+## Architecture
+
+IPOMint follows a modern full-stack architecture using React, TypeScript, Supabase, and TanStack ecosystem for scalability and performance.
+
+## Author
+
+Vaibhav Tomar
